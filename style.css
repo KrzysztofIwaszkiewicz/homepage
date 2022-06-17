@@ -7,9 +7,13 @@ section{
 }
 
 h1{
-    color:blue;
+    color:rgb(94, 94, 221);
 }
 
 p{
     color:brown;
+}
+
+.main-header {
+    color: rgb(2, 2, 58);
 }
