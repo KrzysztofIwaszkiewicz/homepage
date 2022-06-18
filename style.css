@@ -1,19 +1,31 @@
-body{
-    background-color:rgb(220, 253, 253);
+body {
+  background-color: rgb(220, 253, 253);
 }
 
-section{
-    background-color: whitesmoke;
+section {
+  background-color: whitesmoke;
 }
 
-h1{
-    color:rgb(94, 94, 221);
+h1 {
+  color: rgb(94, 94, 221);
 }
 
-p{
-    color:brown;
+p {
+  color: brown;
 }
 
 .main-header {
-    color: rgb(2, 2, 58);
+  color: rgb(2, 2, 58);
+}
+
+.navigation {
+  background-color: rgb(182, 170, 170);
+  display: inline-block;
+  margin-right: 3px;
+  border-radius: 15px;
+  color: azure;
+}
+
+.navigation__link--homepage {
+    background-color: red;
 }
